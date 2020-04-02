@@ -1,6 +1,6 @@
-# Legend-oyo
+# Legendoyo
 
-<i>Note: Arts are downloaded from the internet</i>
+<i>Note: Assets are downloaded from the internet</i>
 
 Challenging game, Defeat the 10 bossess !
 
